@@ -150,4 +150,7 @@ This is a course project. Feel free to fork and modify for your own learning pur
 This project is for educational purposes only.
 
 <img width="1065" height="897" alt="Ekran görüntüsü 2026-01-22 014226" src="https://github.com/user-attachments/assets/29eab842-57de-4a98-9e2c-bedadc15a9c0" />
+<img width="1037" height="414" alt="Ekran görüntüsü 2026-01-22 014243" src="https://github.com/user-attachments/assets/b3bca595-5c3f-4cce-8ef7-d58e5dfc9fbb" />
+<img width="993" height="749" alt="Ekran görüntüsü 2026-01-22 014255" src="https://github.com/user-attachments/assets/7252478e-67c0-4166-bbeb-85c1a905b380" />
+<img width="1047" height="710" alt="Ekran görüntüsü 2026-01-22 014300" src="https://github.com/user-attachments/assets/a5df088e-7dcc-47b3-87ac-7e1cfedd5fa4" />
 
