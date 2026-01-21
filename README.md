@@ -149,4 +149,5 @@ This is a course project. Feel free to fork and modify for your own learning pur
 
 This project is for educational purposes only.
 
+<img width="1065" height="897" alt="Ekran görüntüsü 2026-01-22 014226" src="https://github.com/user-attachments/assets/29eab842-57de-4a98-9e2c-bedadc15a9c0" />
 
